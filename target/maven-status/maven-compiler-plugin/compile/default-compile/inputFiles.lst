@@ -1,0 +1,16 @@
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Product.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/BillingAddress.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Authorities.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/ShippingAddress.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/RegistrationController.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Cart.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CustomerService.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/ApplicationConfig.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CustomerDao.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/dao/CustomerDaoImpl.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/User.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/Customer.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/service/CustomerServiceImpl.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/controller/HomePageController.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/CartItem.java
+/Users/Shawn/eclipse-workspace/onlineShop/src/main/java/onlineShop/model/SalesOrder.java
